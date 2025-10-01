@@ -11,7 +11,6 @@ An intelligent research assistant that transforms how you find and understand in
 - **Source Citations**: Every answer includes traceable references so you can verify and explore further
 
 ### 📄 **Personal Knowledge Base**
-- **Document Upload**: Add your own PDFs, documents, and notes to create a personal knowledge base
 - **Smart Search**: Find information within your documents using natural language queries
 - **Hybrid Intelligence**: Combines your personal documents with web research for complete answers
 - **Persistent Learning**: Remembers and builds upon your document collection over time
@@ -33,9 +32,6 @@ Simply type your question in natural language - from "What are the benefits of r
 2. **Smart Analysis**: AI evaluates and synthesizes information from different perspectives
 3. **Personal Knowledge**: If you have uploaded documents, it searches your knowledge base too
 4. **Structured Answers**: Provides clear, well-organized responses with source references
-
-### **Document Integration**
-Upload your PDFs, notes, and documents to create a personal knowledge base. Search Sense can then answer questions that combine web information with your personal documents for complete, contextual answers.
 
 ## 🎯 Perfect For
 
